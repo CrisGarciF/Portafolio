@@ -2,6 +2,6 @@
 
 Desarrollado con:
 
--Html
+- Html
 
--Css
+- Css
