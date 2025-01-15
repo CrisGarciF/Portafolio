@@ -1,7 +1,7 @@
 # Portafolio Personal Basico
 
-Desarrollado con:
+Desarrollado en:
 
-- Html
+- Html.
 
-- Css
+- Css.
